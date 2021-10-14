@@ -6,4 +6,3 @@ export const my_size_alpha = (str) => {
     }
     return n;
 }
-
