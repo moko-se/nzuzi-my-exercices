@@ -1,1 +1,1 @@
-export const my_display_alpha = () => 'abcdefghiJklmnopqrstuvwxyz';
+export const my_display_alpha = () => 'abcdefghijklmnopqrstuvwxyz';
